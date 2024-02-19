@@ -6,5 +6,6 @@
 
 #Making a welcome message next to my name and also making a title comment block.
 
-print("Hey, Steven")
-print("Welcome to zyBooks!")
+first_name = input("Enter first name:")
+print("Hey" ,first_name)
+print("Welcome to zybooks!")
